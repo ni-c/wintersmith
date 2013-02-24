@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jnordberg/wintersmith.git"
+    "url": "https://github.com/ni-c/wintersmith.git"
   },
   "dependencies": {
-    "marked": "git://github.com/jnordberg/marked.git",
+    "marked": "git+https://github.com/ni-c/wintersmith.git#master",
     "coffee-script": ">=1.3.0",
     "async": "0.1.x",
     "highlight.js": "1.2.x",
